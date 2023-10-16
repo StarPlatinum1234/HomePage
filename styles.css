@@ -1,0 +1,37 @@
+div.header {
+    font-family: Verdana, sans-serif;
+}
+
+div.header h1 {
+    font-size: 24px;
+}
+
+div.header h2 {
+    color: #ffc200;
+}
+
+div.header h3 a {
+    text-decoration: none;
+    color: #0000ff;
+}
+
+div.content {
+    font-family: Merriweather, Georgia, serif;
+}
+
+div.content ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+div.footer {
+    font-family: Georgia, serif;
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+}
+
+div.footer hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
